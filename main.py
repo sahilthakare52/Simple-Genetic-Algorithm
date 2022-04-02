@@ -5,7 +5,7 @@ print ( "Gathering the system resource information........\n ==============#####
 
 os.system("rm  Next_iteration*.txt >/dev/null 2>&1")
 
-data = os.system(" echo '' > mydata.txt; for i in `cat servers.txt`;do ssh  ubuntu@$i 'hostname && sudo sh /etc/update-motd.d/50-landscape-sysinfo' ; echo '====='; done | tee mydata.txt ")
+data = os.system(" echo '' > mydata.txt; for i in `cat servers.txt`;do ssh -o StrictHostKeyChecking=no ubuntu@$i 'hostname && sudo sh /etc/update-motd.d/50-landscape-sysinfo' ; echo '====='; done | tee mydata.txt ")
 
 print(" Fetching the current memory utilisation..........\n")
 
