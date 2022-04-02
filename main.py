@@ -96,7 +96,7 @@ print ("Starting Next iteration..........")
 
 count = len(open("Next_iteration2.txt").readlines())
 
-tourament_func(2, "Next_iteration2.txt", "Next_iteration2.txt", "Next_iteration3.txt")
+tourament_func(3, "Next_iteration2.txt", "Next_iteration2.txt", "Next_iteration3.txt")
 
 print ("Selected servers for next iteration")
 os.system("cat Next_iteration3.txt")
@@ -107,7 +107,7 @@ print ("Starting Next iteration..........")
 
 count = len(open("Next_iteration3.txt").readlines())
 
-tourament_func(2, "Next_iteration3.txt", "Next_iteration3.txt", "Next_iteration4.txt")
+tourament_func(4, "Next_iteration3.txt", "Next_iteration3.txt", "Next_iteration4.txt")
 
 print ("selected server.........")
 
