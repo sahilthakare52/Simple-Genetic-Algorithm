@@ -1,4 +1,4 @@
-  Memory usage: 63%               IPv4 address for eth0: 172.31.83.156
+  Memory usage: 49%               IPv4 address for eth0: 172.31.83.156
   Memory usage: 21%               IPv4 address for eth0: 172.31.90.131
   Memory usage: 22%               IPv4 address for eth0: 172.31.93.35
   Memory usage: 27%               IPv4 address for eth0: 172.31.92.245

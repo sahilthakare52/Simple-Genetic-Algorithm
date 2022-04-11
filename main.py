@@ -110,23 +110,23 @@ print ("Starting Next iteration..........")
 
 count = len(open("Next_iteration3.txt").readlines())
 
-tourament_func(4, "Next_iteration3.txt", "Next_iteration3.txt", "Next_iteration4.txt")
+#tourament_func(4, "Next_iteration3.txt", "Next_iteration3.txt", "Next_iteration4.txt")
 
-print ("Selected servers for next iteration")
-os.system("cat Next_iteration4.txt" )
+#print ("Selected servers for next iteration")
+#os.system("cat Next_iteration4.txt" )
 
-count = len(open("Next_iteration4.txt").readlines())
+#count = len(open("Next_iteration4.txt").readlines())
 
 if count>1:
-    tourament_func(5, "Next_iteration4.txt", "Next_iteration4.txt", "Next_iteration5.txt")
+    tourament_func(4, "Next_iteration3.txt", "Next_iteration3.txt", "Next_iteration4.txt")
     print ("selected server.........")
     print("####################################\n#######Final-selected-server################")
-    os.system("cat Next_iteration5.txt")
+    os.system("cat Next_iteration4.txt")
 
 else:
     print ("selected server.........")
     print("####################################\n#######Final-selected-server################")
-    os.system("cat Next_iteration4.txt")
+    os.system("cat Next_iteration3.txt")
 
 executionTime = (time.time() - startTime)
 print('Execution time in seconds: ' + str(executionTime))

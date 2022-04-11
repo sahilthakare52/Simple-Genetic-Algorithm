@@ -1,4 +1,4 @@
-  Memory usage: 63%               
+  Memory usage: 49%               
   Memory usage: 21%               
   Memory usage: 22%               
   Memory usage: 27%               

@@ -1,24 +1,24 @@
 ip-172-31-83-156
 
-  System information as of Mon Apr 11 08:45:28 UTC 2022
+  System information as of Mon Apr 11 09:07:26 UTC 2022
 
-  System load:  2.32              Processes:             112
-  Usage of /:   35.4% of 7.69GB   Users logged in:       0
-  Memory usage: 63%               IPv4 address for eth0: 172.31.83.156
+  System load:  1.51              Processes:             110
+  Usage of /:   34.8% of 7.69GB   Users logged in:       0
+  Memory usage: 49%               IPv4 address for eth0: 172.31.83.156
   Swap usage:   0%
 =====
 ip-172-31-90-131
 
-  System information as of Mon Apr 11 08:45:35 UTC 2022
+  System information as of Mon Apr 11 09:07:33 UTC 2022
 
-  System load:  0.0               Processes:             106
-  Usage of /:   33.6% of 7.69GB   Users logged in:       0
+  System load:  0.0               Processes:             105
+  Usage of /:   33.5% of 7.69GB   Users logged in:       0
   Memory usage: 21%               IPv4 address for eth0: 172.31.90.131
   Swap usage:   0%
 =====
 ip-172-31-93-35
 
-  System information as of Mon Apr 11 08:45:35 UTC 2022
+  System information as of Mon Apr 11 09:07:34 UTC 2022
 
   System load:  0.0               Processes:             107
   Usage of /:   33.2% of 7.69GB   Users logged in:       0
@@ -27,153 +27,153 @@ ip-172-31-93-35
 =====
 ip-172-31-92-245
 
-  System information as of Mon Apr 11 08:45:36 UTC 2022
+  System information as of Mon Apr 11 09:07:34 UTC 2022
 
-  System load:  0.0               Processes:             106
+  System load:  0.0               Processes:             105
   Usage of /:   33.1% of 7.69GB   Users logged in:       0
   Memory usage: 27%               IPv4 address for eth0: 172.31.92.245
   Swap usage:   0%
 =====
 ip-172-31-81-73
 
-  System information as of Mon Apr 11 08:45:37 UTC 2022
+  System information as of Mon Apr 11 09:07:35 UTC 2022
 
-  System load:  0.0               Processes:             108
+  System load:  0.08              Processes:             106
   Usage of /:   32.4% of 7.69GB   Users logged in:       0
   Memory usage: 26%               IPv4 address for eth0: 172.31.81.73
   Swap usage:   0%
 =====
 ip-172-31-80-163
 
-  System information as of Mon Apr 11 08:45:38 UTC 2022
+  System information as of Mon Apr 11 09:07:36 UTC 2022
 
-  System load:  0.0               Processes:             106
+  System load:  0.0               Processes:             105
   Usage of /:   32.3% of 7.69GB   Users logged in:       0
   Memory usage: 20%               IPv4 address for eth0: 172.31.80.163
   Swap usage:   0%
 =====
 ip-172-31-88-79
 
-  System information as of Mon Apr 11 08:45:39 UTC 2022
+  System information as of Mon Apr 11 09:07:37 UTC 2022
 
-  System load:  0.08              Processes:             106
-  Usage of /:   32.1% of 7.69GB   Users logged in:       0
+  System load:  0.0               Processes:             105
+  Usage of /:   32.2% of 7.69GB   Users logged in:       0
   Memory usage: 20%               IPv4 address for eth0: 172.31.88.79
   Swap usage:   0%
 =====
 ip-172-31-92-78
 
-  System information as of Mon Apr 11 08:45:40 UTC 2022
+  System information as of Mon Apr 11 09:07:38 UTC 2022
 
-  System load:  0.1               Processes:             106
+  System load:  0.0               Processes:             105
   Usage of /:   32.3% of 7.69GB   Users logged in:       0
   Memory usage: 20%               IPv4 address for eth0: 172.31.92.78
   Swap usage:   0%
 =====
 ip-172-31-92-28
 
-  System information as of Mon Apr 11 08:45:40 UTC 2022
+  System information as of Mon Apr 11 09:07:39 UTC 2022
 
-  System load:  0.0               Processes:             106
+  System load:  0.08              Processes:             104
   Usage of /:   31.7% of 7.69GB   Users logged in:       0
   Memory usage: 20%               IPv4 address for eth0: 172.31.92.28
   Swap usage:   0%
 =====
 ip-172-31-83-218
 
-  System information as of Mon Apr 11 08:45:41 UTC 2022
+  System information as of Mon Apr 11 09:07:40 UTC 2022
 
-  System load:  0.0               Processes:             106
+  System load:  0.0               Processes:             105
   Usage of /:   28.5% of 7.69GB   Users logged in:       0
   Memory usage: 20%               IPv4 address for eth0: 172.31.83.218
   Swap usage:   0%
 =====
 ip-172-31-90-59
 
-  System information as of Mon Apr 11 08:45:42 UTC 2022
+  System information as of Mon Apr 11 09:07:41 UTC 2022
 
-  System load:  0.0               Processes:             101
+  System load:  0.0               Processes:             99
   Usage of /:   18.4% of 7.69GB   Users logged in:       0
   Memory usage: 21%               IPv4 address for eth0: 172.31.90.59
   Swap usage:   0%
 =====
 ip-172-31-25-210
 
-  System information as of Mon Apr 11 08:45:43 UTC 2022
+  System information as of Mon Apr 11 09:07:41 UTC 2022
 
   System load:  0.0               Processes:             99
-  Usage of /:   18.4% of 7.69GB   Users logged in:       0
+  Usage of /:   18.5% of 7.69GB   Users logged in:       0
   Memory usage: 21%               IPv4 address for eth0: 172.31.25.210
   Swap usage:   0%
 =====
 ip-172-31-25-133
 
-  System information as of Mon Apr 11 08:45:44 UTC 2022
+  System information as of Mon Apr 11 09:07:42 UTC 2022
 
-  System load:  0.0               Processes:             100
-  Usage of /:   18.4% of 7.69GB   Users logged in:       0
+  System load:  0.0               Processes:             99
+  Usage of /:   18.5% of 7.69GB   Users logged in:       0
   Memory usage: 22%               IPv4 address for eth0: 172.31.25.133
   Swap usage:   0%
 =====
 ip-172-31-20-252
 
-  System information as of Mon Apr 11 08:45:45 UTC 2022
+  System information as of Mon Apr 11 09:07:43 UTC 2022
 
-  System load:  0.0               Processes:             100
-  Usage of /:   18.4% of 7.69GB   Users logged in:       0
+  System load:  0.0               Processes:             99
+  Usage of /:   18.5% of 7.69GB   Users logged in:       0
   Memory usage: 21%               IPv4 address for eth0: 172.31.20.252
   Swap usage:   0%
 =====
 ip-172-31-23-60
 
-  System information as of Mon Apr 11 08:45:46 UTC 2022
+  System information as of Mon Apr 11 09:07:44 UTC 2022
 
-  System load:  0.0               Processes:             100
+  System load:  0.0               Processes:             99
   Usage of /:   18.6% of 7.69GB   Users logged in:       0
   Memory usage: 21%               IPv4 address for eth0: 172.31.23.60
   Swap usage:   0%
 =====
 ip-172-31-19-121
 
-  System information as of Mon Apr 11 08:45:47 UTC 2022
+  System information as of Mon Apr 11 09:07:45 UTC 2022
 
-  System load:  0.0               Processes:             100
-  Usage of /:   18.4% of 7.69GB   Users logged in:       0
+  System load:  0.0               Processes:             99
+  Usage of /:   18.5% of 7.69GB   Users logged in:       0
   Memory usage: 21%               IPv4 address for eth0: 172.31.19.121
   Swap usage:   0%
 =====
 ip-172-31-25-139
 
-  System information as of Mon Apr 11 08:45:47 UTC 2022
+  System information as of Mon Apr 11 09:07:46 UTC 2022
 
-  System load:  0.0               Processes:             100
-  Usage of /:   18.4% of 7.69GB   Users logged in:       0
+  System load:  0.0               Processes:             99
+  Usage of /:   18.5% of 7.69GB   Users logged in:       0
   Memory usage: 21%               IPv4 address for eth0: 172.31.25.139
   Swap usage:   0%
 =====
 ip-172-31-21-63
 
-  System information as of Mon Apr 11 08:45:48 UTC 2022
+  System information as of Mon Apr 11 09:07:47 UTC 2022
 
-  System load:  0.0               Processes:             100
+  System load:  0.0               Processes:             99
   Usage of /:   18.4% of 7.69GB   Users logged in:       0
   Memory usage: 21%               IPv4 address for eth0: 172.31.21.63
   Swap usage:   0%
 =====
 ip-172-31-25-188
 
-  System information as of Mon Apr 11 08:45:49 UTC 2022
+  System information as of Mon Apr 11 09:07:47 UTC 2022
 
-  System load:  0.0               Processes:             100
-  Usage of /:   18.4% of 7.69GB   Users logged in:       0
+  System load:  0.08              Processes:             99
+  Usage of /:   18.5% of 7.69GB   Users logged in:       0
   Memory usage: 21%               IPv4 address for eth0: 172.31.25.188
   Swap usage:   0%
 =====
 ip-172-31-26-76
 
-  System information as of Mon Apr 11 08:45:50 UTC 2022
+  System information as of Mon Apr 11 09:07:48 UTC 2022
 
-  System load:  0.0               Processes:             100
+  System load:  0.0               Processes:             99
   Usage of /:   18.4% of 7.69GB   Users logged in:       0
   Memory usage: 21%               IPv4 address for eth0: 172.31.26.76
   Swap usage:   0%
