@@ -1,5 +1,10 @@
-  Memory usage: 22%               IPv4 address for eth0: 172.31.90.131
-  Memory usage: 22%               IPv4 address for eth0: 172.31.92.245
-  Memory usage: 24%               IPv4 address for eth0: 172.31.81.73
-  Memory usage: 24%               IPv4 address for eth0: 172.31.88.79
-  Memory usage: 21%               IPv4 address for eth0: 172.31.83.218
+  Memory usage: 21%               IPv4 address for eth0: 172.31.90.131
+  Memory usage: 22%               IPv4 address for eth0: 172.31.93.35
+  Memory usage: 20%               IPv4 address for eth0: 172.31.80.163
+  Memory usage: 20%               IPv4 address for eth0: 172.31.88.79
+  Memory usage: 20%               IPv4 address for eth0: 172.31.92.28
+  Memory usage: 21%               IPv4 address for eth0: 172.31.90.59
+  Memory usage: 21%               IPv4 address for eth0: 172.31.20.252
+  Memory usage: 21%               IPv4 address for eth0: 172.31.23.60
+  Memory usage: 21%               IPv4 address for eth0: 172.31.25.139
+  Memory usage: 21%               IPv4 address for eth0: 172.31.25.188

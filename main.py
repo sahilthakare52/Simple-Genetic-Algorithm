@@ -59,23 +59,22 @@ def tourament_func(n, filename, updatedip, nextiteration):
         secondline = f.readlines()[j].rstrip()
        with open(updatedip) as f:
         secondline_ip_add = f.readlines()[j].rstrip()
-      print(firstline)
-      print(secondline)
+        print(firstline)
+        print(secondline)
+        print ("======================")
 
-      print ("======================")
-
-      print ("Running tournament --> iteration {}".format(n))
-      print ("Applying Crossover and selecting new child from available parents.......")
-      if firstline>secondline:
-          print("Memory  utilisation for server {} is greater than server {}\n Server {} is selected".format(i, j, j))
-          update_next_iteration(secondline_ip_add, nextiteration)
-      elif firstline<secondline:
-          print("Memory  utilisation for server {} is less than server {}\n Server {} is Selected ".format(i, j, i))
-          update_next_iteration(firstline_ip_add, nextiteration)
-      else:
-          print("Memory  utilisation for server {} is equal to server {}\n Server will be selected randomly".format(i, j))
-          update_next_iteration(firstline_ip_add, nextiteration)
-      print ("==========================================")
+        print ("Running tournament --> iteration {}".format(n))
+        print ("Applying Crossover and selecting new child from available parents.......")
+        if firstline>secondline:
+           print("Memory  utilisation for server {} is greater than server {}\n Server {} is selected".format(i, j, j))
+           update_next_iteration(secondline_ip_add, nextiteration)
+        elif firstline<secondline:
+           print("Memory  utilisation for server {} is less than server {}\n Server {} is Selected ".format(i, j, i))
+           update_next_iteration(firstline_ip_add, nextiteration)
+        elif firstline==secondline:
+           print("Memory  utilisation for server {} is equal to server {}\n Server will be selected randomly".format(i, j))
+           update_next_iteration(firstline_ip_add, nextiteration)
+        print ("==========================================")
  
 tourament_func(1, "Memory.txt", "ip_add.txt", "Next_iteration1.txt")
 
@@ -85,6 +84,7 @@ os.system("cat Next_iteration1.txt")
 print ("==========================================")
 
 print ("Starting Next iteration..........")
+print ("Picking two new servers..........")
 
 count = len(open("Next_iteration1.txt").readlines())
 
@@ -112,11 +112,23 @@ count = len(open("Next_iteration3.txt").readlines())
 
 tourament_func(4, "Next_iteration3.txt", "Next_iteration3.txt", "Next_iteration4.txt")
 
-print ("selected server.........")
+print ("Selected servers for next iteration")
+os.system("cat Next_iteration4.txt" )
 
+count = len(open("Next_iteration4.txt").readlines())
 
-print("####################################\n#######Final-selected-server################")
-os.system("cat Next_iteration4.txt")
+if count>1:
+    tourament_func(5, "Next_iteration4.txt", "Next_iteration4.txt", "Next_iteration5.txt")
+    print ("selected server.........")
+    print("####################################\n#######Final-selected-server################")
+    os.system("cat Next_iteration5.txt")
+
+else:
+    print ("selected server.........")
+    print("####################################\n#######Final-selected-server################")
+    os.system("cat Next_iteration4.txt")
 
 executionTime = (time.time() - startTime)
 print('Execution time in seconds: ' + str(executionTime))
+
+
