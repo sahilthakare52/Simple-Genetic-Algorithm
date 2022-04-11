@@ -65,6 +65,7 @@ def tourament_func(n, filename, updatedip, nextiteration):
       print ("======================")
 
       print ("Running tournament --> iteration {}".format(n))
+      print ("Applying Crossover and selecting new child from available parents.......")
       if firstline>secondline:
           print("Memory  utilisation for server {} is greater than server {}\n Server {} is selected".format(i, j, j))
           update_next_iteration(secondline_ip_add, nextiteration)
